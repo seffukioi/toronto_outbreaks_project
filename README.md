@@ -9,7 +9,7 @@ The objective of this project is to conduct a thorough analysis of historical di
 1. Orchestration - Mage
 2. Data Lake - Google Cloud Storage
 3. Data Warehouse - BigQuery
-4. Visualization - Apache Superset
+4. Visualization - Preset(Apache Superset)
 5. Transformation - DBT
 
 ## DATASET
@@ -19,3 +19,7 @@ The data used for the project can be fetched from the following dataset
 
 ## PROCEDURE
 
+
+## VISUALIZATION
+The visualization is done using PRESET which uses apache-superset. Attached is an image of the dashboard.
+![toronto-disease-outbreaks-2024-04-19T06-41-38 633Z](https://github.com/seffukioi/toronto_outbreaks_project/assets/147942239/0ff8e2b6-29da-4992-a580-5dae52b1efc7)
