@@ -11,3 +11,8 @@ The objective of this project is to conduct a thorough analysis of historical di
 3. Data Warehouse - BigQuery
 4. Visualization - Apache Superset
 5. Transformation - DBT
+
+## DATASET
+
+The data used for the project can be fetched from the URL below
+[title](https://open.toronto.ca/dataset/outbreaks-in-toronto-healthcare-institutions/)
