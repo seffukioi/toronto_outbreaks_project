@@ -16,3 +16,6 @@ The objective of this project is to conduct a thorough analysis of historical di
 
 The data used for the project can be fetched from the following dataset
 [dataset](https://open.toronto.ca/dataset/outbreaks-in-toronto-healthcare-institutions/)
+
+## PROCEDURE
+
